@@ -45,6 +45,13 @@ J2SE是Java 2 Standard Edition,J2SE就是Java2的标准版，主要用于桌面�
 
 </details>
 
+> try-catch-finally
+<details>
+<summary>展开查看答案</summary>
+1.除了System.exit,可以抢在finally之前执行，其他情况，finally必执行
+2.finally里有结束方法的方法，短路其他一切返回方法
+</details>
+
 # J2EE
 # DesignPattern
 > 1.策略模式是什么
